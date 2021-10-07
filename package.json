@@ -6,6 +6,7 @@
   "module": "./src/y-websocket.js",
   "types": "./dist/src/y-websocket.d.ts",
   "sideEffects": false,
+  "type": "module",
   "funding": {
     "type": "GitHub Sponsors ❤",
     "url": "https://github.com/sponsors/dmonad"
